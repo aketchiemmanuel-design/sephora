@@ -1,0 +1,41 @@
+   h1 {
+       color: black;
+       background-color: rgba(255, 0, 0, 0.434);
+       font-size: larger;
+   }
+
+   p {
+       color: brown;
+   }
+
+   #p2 {
+       color: beige;
+       background-color: black;
+   }
+
+
+   body {
+       color: brown;
+       background-color: antiquewhite;
+   }
+
+   h2 {
+       background-color: rgba(255, 0, 0, 0.468);
+       color: black;
+   }
+   h3{
+    background-color: rgba(255, 0, 0, 0.454);
+    color: black;
+   }
+   li{
+    color:black;
+    
+   }
+  ol a li{
+   
+color: blueviolet;
+  }
+  
+    ol a li{
+    
+  }
